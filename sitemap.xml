@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/account/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -13,10 +17,6 @@
   
   <url>
     <loc>/password-recovery/</loc>
-  </url>
-  
-  <url>
-    <loc>/account/</loc>
   </url>
   
   <url>
