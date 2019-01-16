@@ -1,33 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ETHUofT on EthUofT</title>
-    <link>/</link>
-    <description>Recent content in ETHUofT on EthUofT</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>/account/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/account/</guid>
-      <description>Sample FirebaseUI Appvar config = {apiKey: &#34;AIzaSyAFzSXtjRfqI-d5kGycf8OIF_K2YKpumUI&#34;,authDomain: &#34;ethuoft-backend.firebaseapp.com&#34;,databaseURL: &#34;https://ethuoft-backend.firebaseio.com&#34;,projectId: &#34;ethuoft-backend&#34;,storageBucket: &#34;ethuoft-backend.appspot.com&#34;,messagingSenderId: &#34;692474352384&#34;};firebase.initializeApp(config);var uiConfig = {signInSuccessUrl: &#39;&#39;,signInOptions: [firebase.auth.GoogleAuthProvider.PROVIDER_ID,firebase.auth.FacebookAuthProvider.PROVIDER_ID,firebase.auth.GithubAuthProvider.PROVIDER_ID,firebase.auth.EmailAuthProvider.PROVIDER_ID],tosUrl: &#39;&#39;};var ui = new firebaseui.auth.AuthUI(firebase.auth());ui.start(&#39;#firebaseui-auth-container&#39;, uiConfig);{{ define &#34;header&#34;}} {{ partial &#34;header&#34; .}} {{end}}Welcome to My Awesome App</description>
-    </item>
-    
-    <item>
-      <title>Password Recovery</title>
-      <link>/password-recovery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/password-recovery/</guid>
-      <description>Your email    Send Back to Log In
- </description>
-    </item>
-    
-  </channel>
-</rss>
